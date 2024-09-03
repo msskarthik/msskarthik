@@ -1,6 +1,9 @@
-# 💫 About Me:
-A Passionate Web Developer with hands-on experience on MERN, MEVN Stacks.
+# Hi there! 👋
 
+# 💫 About Me:
+🌐 **Web Developer** | MERN & MEVN Stacks | Hands-on with Svelte
+
+I'm a passionate web developer with experience in building scalable applications using the MERN (MongoDB, Express, React, Node.js) and MEVN (MongoDB, Express, Vue, Node.js) stacks. I have hands-on experience creating responsive and dynamic user interfaces with Svelte. I'm always eager to learn and experiment with new technologies to develop efficient and innovative web solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/karthik-mukkavilli-332686176) 
