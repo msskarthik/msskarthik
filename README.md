@@ -1,4 +1,4 @@
-# Hi there! 👋
+Hi there! 👋
 
 # 💫 About Me:
 🌐 **Web Developer** | MERN & MEVN Stacks | Hands-on with Svelte
